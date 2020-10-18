@@ -1,0 +1,10 @@
+server:
+  port: 8088
+  servlet:
+    context-path: /
+
+picPath: 测试yml属性配置
+
+cameo:
+  id: testid1
+  name: testname1
